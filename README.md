@@ -21,11 +21,13 @@ Shell00/
 
 ## ⚙️ Ejercicios
 Cada ejercicio tiene requisitos concretos. Algunos ejemplos:
+```
 ex00 → Crear un archivo llamado z.
 ex03 → Script para listar todos los archivos con extensión .sh.
 ex05 → Script que muestra los últimos 5 commits del repositorio usando git log.
 ex06 → Mostrar la lista de archivos ignorados en el repositorio (.gitignore).
 ex09 → Configurar un archivo ft_magic para que el comando file lo reconozca con un tipo personalizado.
+```
 
 ---
 
