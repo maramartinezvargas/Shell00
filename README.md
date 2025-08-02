@@ -5,6 +5,7 @@ Este repositorio contiene las soluciones que aporté al **proyecto Shell00** de 
 El objetivo es familiarizarse con el entorno de Unix y aprender los comandos básicos de la shell a través de una serie de ejercicios prácticos.
 
 ## 📂 Estructura del Proyecto
+```text
 Shell00/
 ├── ex00/  # Z (crear archivo llamado "z")
 ├── ex01/  # testShell00.tar (archivo comprimido para descomprimir)
@@ -16,6 +17,7 @@ Shell00/
 ├── ex07/  # b (crear archivo con nombre especial)
 ├── ex08/  # clean (script que borra archivos temporales)
 └── ex09/  # ft_magic (archivo para probar con comando file)
+```
 
 ## ⚙️ Ejercicios
 Cada ejercicio tiene requisitos concretos. Algunos ejemplos:
